@@ -4,7 +4,7 @@ This repository contains a conceptual proposal aimed at integrating a digital mo
 
 ---
 
-## Project Objectives
+## 🥅 Project Objectives
 
 - Reduce dependency and inaccurate records on manual paperwork
 - Enable real-time reporting for production status
@@ -13,7 +13,7 @@ This repository contains a conceptual proposal aimed at integrating a digital mo
 
 ---
 
-## Proposed Solution
+## 🧠 Proposed Solution
 
 - Digital Data Collection
 - Centralised Database
@@ -22,7 +22,7 @@ This repository contains a conceptual proposal aimed at integrating a digital mo
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 - /proposal -> Proposal document with analysis and explanation
 - /diagrams -> Architecture, workflow and project timeline diagrams
